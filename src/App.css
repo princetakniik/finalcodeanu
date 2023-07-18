@@ -1,0 +1,67 @@
+.navItem:hover {
+  background-color: #8266f733;
+}
+
+.navItem {
+  font-size: 500px;
+}
+
+.teachercontent {
+  background-color: #f8f6ff;
+}
+
+.studentcontent {
+  background-color: #7455f6;
+}
+
+.instcontent {
+  background-color: #9077f8;
+}
+
+.carousel .control-dots .dot {
+  /* apply margin-top */
+  margin-top: 1rem;
+  /* set color to white */
+  background: white;
+}
+
+.carousel .control-dots .dot.selected {
+  /* set active dot color to black */
+  background: black;
+}
+.cardcontent {
+  background-color: #9077f8;
+}
+
+.inputbox {
+  background-color: #f8f6ff;
+}
+
+.custom-file-upload {
+  width: 100%; /* Adjust as needed */
+  position: relative;
+}
+
+.input-inner {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 1.5em;
+  border: 1px solid gray;
+  border-radius: 1em;
+
+  width: 60%; /* Adjust as needed */
+  text-align: center;
+  cursor: pointer;
+}
+
+.input-logo {
+  width: 60px; /* Adjust as needed */
+  height: auto;
+  margin-bottom: 1em;
+}
+
+.hidden {
+  display: none;
+}
